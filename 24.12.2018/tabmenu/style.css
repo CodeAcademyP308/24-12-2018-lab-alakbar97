@@ -1,0 +1,25 @@
+.tabLinks a.active{
+    background: gray;
+}
+.about div.active{
+    display: block !important;
+}
+.mainDiv{
+    width: 100%;
+    border: 1px solid black;
+    height: 150px;
+}
+.tabLinks{
+    background: #f1f1f1;
+    height: 50px;
+}
+.tabLinks a{
+    text-decoration: none;
+    color: black;
+    padding: 15px 20px;
+    line-height: 3;
+}
+
+.about div{
+    display: none;
+}
